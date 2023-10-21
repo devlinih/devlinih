@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
 
-<!--
-**devlinih/devlinih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Current Student at [Olin College of Engineering](https://www.olin.edu/)
+  - Electrical and Computer Engineering
+  - CO2025
+- 🗺️ Greater Boston Area
+- 📧 <dih@olin.edu>
+- I currently work as a Teaching Assistant for a Computer Architecture course.
 
-Here are some ideas to get you started:
+## Things I've Worked On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A [digital synthesizer](https://github.com/devlinih/comparch_synth)
+  written in SystemVerilog RTL and tested on a Xilinx based FPGA board.
+- A [P2P networking](https://github.com/olincollege/p2p-networking) demo
+- [Remote Controlled Hovercraft](https://olincollege.github.io/pie-2022-03/hoverbois/)
+- [Devlin Ihmacs](https://github.com/devlinih/devlin-ihmacs), an Emacs-inspired
+  text-editor written in Python
